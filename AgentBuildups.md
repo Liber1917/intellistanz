@@ -5,3 +5,4 @@
 git config --global http.proxy http://host.docker.internal:7890
 git config --global https.proxy http://host.docker.internal:7890
 ```
+验证：跑通Tianji的[仓库](https://github.com/SocialAI-tianji/Tianji)
