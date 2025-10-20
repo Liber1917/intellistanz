@@ -75,3 +75,5 @@
 
 ---
 example:https://chat.deepseek.com/share/hoactfuqh40o058yed
+
+赛博问诊：https://www.ismismtag.com/ai
