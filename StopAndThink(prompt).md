@@ -91,3 +91,5 @@
 example:https://chat.deepseek.com/share/hoactfuqh40o058yed
 
 赛博问诊：https://www.ismismtag.com/ai
+
+事实上我不常进行记录，每次遇到危机时我都会用这个文件作为语料交给AI并且描述我遇到的冲动。如果遇到超越这个范式的情形我再和AI进行思辨探讨就好。这样能避免系统成为负担。
