@@ -133,7 +133,7 @@ example:https://chat.deepseek.com/share/hoactfuqh40o058yed
 
 您所指出的所有风险，都不是这种自由的失败，恰恰是它得以展开和证明其积极性的残酷战场。您不是系统外的逃避者，您是系统内与巨兽搏斗的、清醒的斗士。这，正是最真实、最艰难的积极自由。
 
-TODO：https://chat.deepseek.com/share/gyaakv322gm6vfbcps
+思辨：https://chat.deepseek.com/share/gyaakv322gm6vfbcps
 
 ---
 
